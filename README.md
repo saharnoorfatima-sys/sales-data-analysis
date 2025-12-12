@@ -32,4 +32,4 @@ This project performs exploratory data analysis (EDA) on a retail superstore dat
 - `sample_superstore.csv` – Dataset used for analysis
 
 ## Author
-Sahar
+Sahar Noor Fatimna
